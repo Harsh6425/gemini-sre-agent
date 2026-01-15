@@ -1,0 +1,5 @@
+{
+  "name": "Self-Healing SRE Agent",
+  "description": "An autonomous SRE agent powered by Gemini 3 Pro that detects, diagnoses, and fixes production incidents using strict Thought Signatures for state integrity.",
+  "requestFramePermissions": []
+}

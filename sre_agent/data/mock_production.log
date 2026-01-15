@@ -1,0 +1,13 @@
+2026-01-15 10:00:01 INFO - System started successfully
+2026-01-15 10:00:02 INFO - Health check passed
+2026-01-15 10:00:05 INFO - Incoming request /api/v1/users
+2026-01-15 10:00:06 INFO - processing payment...
+2026-01-15 10:00:10 WARN - High latency detected on db-shard-01
+2026-01-15 10:01:00 ERROR - ConnectionRefusedError: DB Connection failed at db.py:42
+2026-01-15 10:01:01 ERROR - ConnectionRefusedError: DB Connection failed at db.py:42
+2026-01-15 10:01:01 INFO - Retry attempt 1...
+2026-01-15 10:01:02 ERROR - ConnectionRefusedError: DB Connection failed at db.py:42
+2026-01-15 10:01:03 ERROR - ConnectionRefusedError: DB Connection failed at db.py:42
+2026-01-15 10:01:04 ERROR - ConnectionRefusedError: DB Connection failed at db.py:42
+2026-01-15 10:01:05 CRITICAL - Service Unreachable. Threshold exceeded.
+2026-01-15 10:01:06 ERROR - BrokenPipeError: Unable to flush logs
