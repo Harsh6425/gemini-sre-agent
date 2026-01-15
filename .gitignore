@@ -30,3 +30,8 @@ venv/
 *.njsproj
 *.sln
 *.sw?
+
+# Large files (avoid LFS)
+*.mp4
+*.mp3
+*.zip
