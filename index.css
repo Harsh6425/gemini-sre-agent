@@ -1,6 +1,5 @@
-/* Self-Healing SRE Agent - Global Styles */
-/* Note: Primary styling is handled by Tailwind CDN in index.html */
-/* This file exists for Vite build compatibility */
+/* Self-Healing SRE Agent - Custom Styles */
+/* Most styling is handled by Tailwind CDN */
 
 body {
   background-color: #0d1117;
