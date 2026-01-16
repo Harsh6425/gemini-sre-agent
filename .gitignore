@@ -31,7 +31,8 @@ venv/
 *.sln
 *.sw?
 
-# Large files (avoid LFS)
+# Large media files
 *.mp4
 *.mp3
 *.zip
+*.png
